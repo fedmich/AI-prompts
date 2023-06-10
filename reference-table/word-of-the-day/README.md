@@ -1,4 +1,5 @@
 #Input
+
     Generate a table with 15 advanced english words that we can use as "Word of the day" feature.
     Columns should be word, type of word, short description, and short "usage example".
 

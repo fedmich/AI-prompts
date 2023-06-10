@@ -3,7 +3,7 @@
     Generate a table with listing of all presidents of US.
     Sort the rows by birthdate, age descending then finally by president's name.
     Includes the following fields below
-    Name, Birthday, Age, Place of Birth, Year of presidency
+    Name, Birthday, Age, Place of Birth, Year of presidency, Link to wikipedia, Twitter username
 
 
 # Output

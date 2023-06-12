@@ -1,0 +1,5 @@
+Generate a table of domains that are super popular with typical millions of visits.
+Limit the result to 50 domains.
+Only domain names that starts with letter m.
+Mark it if its an adult website.
+The columns of the table should be domain, tld of domain, date registered

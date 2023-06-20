@@ -1,0 +1,9 @@
+How many AI chat bots are there now?
+List all of them, the most popular first and explain their main uses.
+
+Finally, make a table of them
+Table names should be name of AI, Website, Twitter handler, Official site.
+
+Respond with markdown.
+Add row numbers
+
